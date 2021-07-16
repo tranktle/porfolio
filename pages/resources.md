@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resouces
-subtitle: From the pexels folder
-tags: [Page]
+subtitle: Helpful links for my study 
+tags: [Recouces, HelpfulLink]
 ---
 
 
