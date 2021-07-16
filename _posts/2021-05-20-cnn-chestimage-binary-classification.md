@@ -5,6 +5,9 @@ title: >
 tags: [CNN]
 ---
 
+* TOC
+{:toc}
+
 # Applying Convolution Neural Network to a binary classification problem
 
 This is the final project for my Data Science class. 
