@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resouces
-subtitle: Recouces for my study 
+title: Resources
+subtitle: Recources for my study 
 tags: [Recources, UsefullLink]
 ---
 
