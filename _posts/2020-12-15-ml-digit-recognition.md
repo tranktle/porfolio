@@ -17,4 +17,4 @@ excerpt_separator: <!--more-->
 
 # Link to the presentation and R code files
 
-Here is the [link to presentation file]()
+Here is the [link to presentation file](https://github.com/tranktle/porfolio/blob/master/presentfile/ML-Final-Presenatation.html)
