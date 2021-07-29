@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning with Hand Digit Recognition Problem
-tags: [MachineLearning, NeuralNetwork, KNN, RandomForest, SVM, PCA]
+tags: [MachineLearning, NeuralNetwork, KNN, RandomForest, SVM, PCA, fcNN, CNN]
 author: Tran Le
 excerpt_separator: <!--more-->
 ---
