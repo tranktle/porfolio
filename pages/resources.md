@@ -23,5 +23,5 @@ tags: [Resources, UsefullLink]
 
 # Probabilistic Deep Learning
 
-[Probabilistic Deep Learning With Python, Keras and TensorFlow Probability][https://www.manning.com/books/probabilistic-deep-learning] (Oliver Dürr, Beate Sick, Elvis Murina) 
+[Probabilistic Deep Learning With Python, Keras and TensorFlow Probability](https://www.manning.com/books/probabilistic-deep-learning) (Oliver Dürr, Beate Sick, Elvis Murina) 
 
