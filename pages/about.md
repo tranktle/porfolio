@@ -11,6 +11,6 @@ I obtained my Master degree from the [Department of Mathematics, Syracuse Univer
 
 The courses in UMMC that I have taken for the first two years focus on Bio-Statistics and Data Science and Programing. I have learned SAS, STATA, R, Python, HTML, and CSS. My main interest is using R or Python with Machine Learning and Deep learning methods. 
 
-I am currently working on a project using Machine Learning with [h2o.ai](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) to identify novel factors and interactions associated with dementia: The Atherosclerosis Risk in Communities [ARIC] (https://sites.cscc.unc.edu/aric/) Study. The data description can be found from [here](https://mindset.umc.edu/aricvarexplorer/index.html). The detailed code and instruction soon will be published.
+I am currently working on a project using Machine Learning with [h2o.ai](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) to identify novel factors and interactions associated with dementia: The Atherosclerosis Risk in Communities [ARIC](https://sites.cscc.unc.edu/aric/) Study. The data description can be found from [here](https://mindset.umc.edu/aricvarexplorer/index.html). The detailed code and instruction soon will be published.
 
 Other projects related to using Machine Learning and Deep Learning (CNN, BayesianCNN) may be found in my [GitHub posts](https://tranktle.github.io/porfolio/).
