@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn BCNN from the book Probabilistic Deep Learning: With Python, Keras and TensorFlow Probability
+title: Learn BCNN from the book Probabilistic Deep Learning with Python, Keras and TensorFlow Probability
 feature-img: "assets/img/feature-img/learnbcnn.png"
 thumbnail: "assets/img/thumbnails/feature-img/learnbcnn.png"
 tags: [bcnn]
