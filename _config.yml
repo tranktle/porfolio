@@ -9,7 +9,7 @@ avatar: assets/img/secondlogo.png                         # Empty for no avatar 
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: A webpage to explore Machine Learning and Data Science# Change Blog header text
+header_text: A webpage to explore Machine Learning and Data Science # Change Blog header text
 header_feature_image: assets/img/pexels/tree.jpg
 footer_text: >
   This site was built with the help of <a href="https://jekyllrb.com/">Jekyll</a> with template <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> 
