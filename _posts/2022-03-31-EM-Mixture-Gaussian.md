@@ -3,7 +3,6 @@ layout: post
 title: An introduction to  Expectation-maximization (EM) algorithm for Gaussian mixture models and Factor Analysis
 tags: [EM, R, simulations, GaussianMixture, Factor Analysis]
 author: Tran Le
-excerpt_separator: <!--more-->
 ---
 
 * TOC
