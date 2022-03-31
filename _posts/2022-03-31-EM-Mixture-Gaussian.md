@@ -19,4 +19,4 @@ The project will introduce the EM algorithm and explore how EM clustering algori
 Those will be presented with detailed construction of the E and M step, pseudo-code, and R-code examples.
   - Then an introduction to Factor Analysis and how EM algorithm works for Factor analysis will be presented.
 
-# Link to the EM explanation and R code files
+
