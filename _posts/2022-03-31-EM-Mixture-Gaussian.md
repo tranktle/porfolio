@@ -24,6 +24,6 @@ Index | Desciption | Notes | Rcode
 ------------- | ------------- |---------------|------------
 1 | Introduction to the EM algorithm | | 
 2 | How EM clustering algorithm works for Mixture of two Gaussian distributions in 1D| [Note_2G_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/Note_2G_1D.html)| [Rcode_2G_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/01_Mixture_2Gaussian_1d.html)
-3| How EM clustering algorithm works for Mixture of k>=2 Gaussian distributions in 1D| [Note_kG_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/Note_3G_1D.html)| [Rcode_3G_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/02_mixture_3Gaussian_1d.html)
+3| How EM clustering algorithm works for Mixture of k>=2 Gaussian distributions in 1D| [Note_kG_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/Note_3G_1D.html)| [Rcode_3G_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/02_mixture_3Gaussian_1d.html) <br> [Rcode_3Gaussian_2D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/03_Mixture_3Gaussian_2D.html)
 
 
