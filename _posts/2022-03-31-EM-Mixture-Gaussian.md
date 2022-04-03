@@ -18,5 +18,11 @@ The project will introduce the EM algorithm and explore how EM clustering algori
 
 Those will be presented with detailed construction of the E and M step, pseudo-code, and R-code examples.
   - Then an introduction to Factor Analysis and how EM algorithm works for Factor analysis will be presented.
+# Contents
+
+Index | Desciption | Notes | Rcode
+------------- | ------------- |---------------|------------
+1 | Introduction to the EM algorithm | [Linkname](https://Link)| 
+2 | How EM clustering algorithm works for Mixture of two Gaussian distributions in 1D| [Note_2G_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/Note_2G_1D.html)| [Rcode_2G_1D](https://htmlpreview.github.io/?https://github.com/tranktle/em-intro-mixture-gaussian/blob/main/01_Mixture_2Gaussian_1d.html)
 
 
