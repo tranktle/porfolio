@@ -7,4 +7,4 @@ tags: [r-random-posts]
 ---
 Here, I will list some random observations I got while using R. 
 
-[Using powerjoin](https://tranktle.github.io/some_random_r_observation/)
+[Some problems that we may cope with when using dplyr::full_join. These are why you may need powerchoice::power_full_join.](https://tranktle.github.io/some_random_r_observation/)
