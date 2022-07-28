@@ -7,7 +7,9 @@ tags: [r-random-posts]
 ---
 Here, I will list some random observations I got while using R. 
 
-- [Some problems that we may cope with when using dplyr::full_join. These are why you may need powerchoice::power_full_join.](https://tranktle.github.io/some_random_r_observation/)
+- [GitHub Cheat Sheet](https://tranktle.github.io/r-random-tricks/github-cheatsheet.html)
+
+- [Some problems that we may cope with when using dplyr::full_join. These are why you may need powerchoice::power_full_join.](https://tranktle.github.io/r-random-tricks/problems-when-using-dplyrfull_join.html)
 
 Assume that our data comes from MANY different tables, and we want to join these tables using people's IDs. It is essential to notice the assumption that each person has a **unique ID** so that we can use it as a **key** to join our tables. 
 
