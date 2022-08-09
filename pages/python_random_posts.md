@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Python_random_posts
