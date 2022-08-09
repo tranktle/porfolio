@@ -5,7 +5,7 @@ permalink: /Python_random_posts/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Python_random_posts]
 ---
-[Here](https://github.com/tranktle/random_python_tricks), I will list some random observations I got while using Python (especially Pytorch).  is the link to the repository.
+[Here](https://github.com/tranktle/random_python_tricks), I will list some random observations I got while using Python (especially Pytorch).
 
 - 001_Pytorch_Lightning_Ignite over view 
 - 002_CheckDataFolder_DownloadFiles
