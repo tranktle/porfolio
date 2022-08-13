@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Random_R_posts
+title: R_random_posts
 permalink: /r-random-post/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [r-random-posts]
