@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MRI classification with Pytorch - 98% Accuracy
-feature-img: "assets/img/feature-img/mri-image.png"
-thumbnail: "assets/img/feature-img/mri-image.png"
+feature-img: "assets/img/feature-img/mri_image.png"
+thumbnail: "assets/img/feature-img/mri_image.png"
 tags: [cnn, image classification, transfer learning]
 ---
 
