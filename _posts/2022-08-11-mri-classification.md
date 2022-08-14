@@ -1,21 +1,19 @@
 ---
 layout: post
-title: MRI classification with Pytorch - 99% Accuracy
+title: MRI classification with Pytorch - 98% Accuracy
 feature-img: "assets/img/feature-img/mri-image.png"
-thumbnail: "assets/img/thumbnails/feature-img/mri-image.png"
-tags: [bcnn]
+thumbnail: "assets/img/feature-img/mri-image.png"
+tags: [cnn, image classification, transfer learning]
 ---
 
-This project is about using Pytorch for 2D MRI image classification. 
+This project is about using Pytorch for 2D MRI image classification using transfer learning with Resnet34 with a testing accuracy is 98%.
+
 The images are downloaded from [Kaggle](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images). These images will be classified into four categories, including 
 
 NOD: Non Demented, \
 VMD: Very Mild Demented, \
 MID: Mild Demented, \
 MOD: Moderate Demented. \
-
-With this project, I will use Resnet34 for doing the work. 
-
 
 Index | Description | Jupiter notebook| Content | data | saved_model
 ------------- | ------------- |---------------|------------|--------------|----------|
