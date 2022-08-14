@@ -15,7 +15,7 @@ VMD: Very Mild Demented, \
 MID: Mild Demented, \
 MOD: Moderate Demented. \
 
-Index | Description | Jupiter notebook| Content | data | saved_model
-------------- | ------------- |---------------|------------|--------------|----------|
-1 | 1st attempt <br> Val_accuracy: 0.98 <br> Testing accuracy: 0.68 😢 | [01_Resrnet34.ipynb](https://github.com/tranktle/learn_bcnn_book/blob/main/chapter_02/MNIST%20data%20using%20fcNN%20and%20CNN.ipynb) |Download data <br> split to train, val, test <br> Train with Resnet34 <br> Testing evaluation <br> Reasoning | ./Data/org_day| ./model/R01_Resnet34_cnn.pth| 
-2 | 2nd attempt <br> Val_accuracy: 0.99 <br> Testing accuracy: 0.99 😃 <br> Is this approach ok? ❓| 02_Resnet34.ipynb| Combine data<br> Split data <br> Train model<br> Evaluate the model| ./Data/allnew| .model/R02_Resnet34_cnn.pth 
+Index | Description | Jupiter notebook| Content | data | 
+------------- | ------------- |---------------|------------|--------------|
+1 | Val_accuracy: 0.98 <br> Testing accuracy: 0.68 😢 | [01_Resrnet34.ipynb](https://github.com/tranktle/2022_mri_classification/blob/main/01-Resnet34.ipynb) |Download data <br> split to train, val, test <br> Train with Resnet34 <br> Testing evaluation <br> Reasoning | org_day|
+2 | Val_accuracy: 0.99 <br> Testing accuracy: 0.98 😃 <br> Is this approach ok? 🤔| [02_Resnet34.ipynb](https://github.com/tranktle/2022_mri_classification/blob/main/02-Resnet34.ipynb)| Combine data<br> Split data <br> Train model<br> Evaluate the model| allnew|
