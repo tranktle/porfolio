@@ -4,11 +4,8 @@ title: Machine Learning with Hand Digit Recognition Problem
 tags: [MachineLearning, NeuralNetwork, KNN, RandomForest, SVM, PCA, fcNN, CNN]
 author: Tran Le
 ---
+
 This project is about applying common Machine Learning models to a Hand digit classification problem with/without dimension reduction using PCA
-
-
-* TOC
-{:toc}
 
 # Goal of the project
 
