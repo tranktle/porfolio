@@ -19,3 +19,5 @@ Index | Description | Jupiter notebook| Content | data |
 ------------- | ------------- |---------------|------------|--------------|
 1 | Val_accuracy: 0.98 <br> Testing accuracy: 0.68 😢 | [01_Resrnet34.ipynb](https://github.com/tranktle/2022_mri_classification/blob/main/01-Resnet34.ipynb) |Download data <br> split to train, val, test <br> Train with Resnet34 <br> Testing evaluation <br> Reasoning | org_day|
 2 | Val_accuracy: 0.99 <br> Testing accuracy: 0.98 😃 <br> Is this approach ok? 🤔| [02_Resnet34.ipynb](https://github.com/tranktle/2022_mri_classification/blob/main/02-Resnet34.ipynb)| Combine data<br> Split data <br> Train model<br> Evaluate the model| allnew|
+
+For utility functions, please see [mymodulo.py](https://github.com/tranktle/2022_mri_classification/blob/main/mymodule.py)
