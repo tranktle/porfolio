@@ -2,5 +2,5 @@
 layout: page
 title: Projects
 permalink: /tags/
-#icon: "fa-tags"
+icon: "fa-tags"
 ---
